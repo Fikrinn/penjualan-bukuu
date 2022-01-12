@@ -15,6 +15,14 @@ class CreateLaporanpenjualansTable extends Migration
     {
         Schema::create('laporanpenjualans', function (Blueprint $table) {
             $table->id();
+            $table->bigInteger('id_buku')->unsigned();
+            $table->bigInteger('id_transaksi')->unsigned();
+            $table->foreign("id_buku")->references('id')
+                ->on('bukus')->onUpdate('cascade')
+                ->onDelete('cascade');
+            $table->foreign("id_transaksi")->references('id')
+                ->on('penjualans')->onUpdate('cascade')
+                ->onDelete('cascade');
             $table->timestamps();
         });
     }

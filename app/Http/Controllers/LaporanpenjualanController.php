@@ -2,7 +2,9 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\buku;
 use App\Models\laporanpenjualan;
+use App\Models\penjualan;
 use Illuminate\Http\Request;
 
 class LaporanpenjualanController extends Controller
@@ -14,7 +16,9 @@ class LaporanpenjualanController extends Controller
      */
     public function index()
     {
-        //
+
+        $laporanpenjualan = laporanpenjualan::with('buku', 'penjualan')->get();
+        return view('laporanpenjualan.index', compact('laporanpenjualan'));
     }
 
     /**
@@ -24,7 +28,9 @@ class LaporanpenjualanController extends Controller
      */
     public function create()
     {
-        //
+        $buku = buku::all();
+        $penjualan = penjualan::all();
+        return view('laporanpenjualan.create', compact('buku', 'penjualan'));
     }
 
     /**
@@ -35,7 +41,18 @@ class LaporanpenjualanController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $request->validate([
+
+            'id_buku' => 'required',
+            'id_transaksi' => 'required',
+        ]);
+
+        $laporanpenjualan = new laporanpenjualan;
+        $laporanpenjualan->id_buku = $request->id_buku;
+        $laporanpenjualan->id_transaksi = $request->id_transaksi;
+
+        $laporanpenjualan->save();
+        return redirect()->route('laporanpenjualan.index');
     }
 
     /**
@@ -44,9 +61,11 @@ class LaporanpenjualanController extends Controller
      * @param  \App\Models\laporanpenjualan  $laporanpenjualan
      * @return \Illuminate\Http\Response
      */
-    public function show(laporanpenjualan $laporanpenjualan)
+    public function show($id)
     {
-        //
+        $buku = buku::findOrFail($id);
+        $penjualan = penjualan::all();
+        return view('buku.show', compact('buku', 'penjualan'));
     }
 
     /**
@@ -55,9 +74,11 @@ class LaporanpenjualanController extends Controller
      * @param  \App\Models\laporanpenjualan  $laporanpenjualan
      * @return \Illuminate\Http\Response
      */
-    public function edit(laporanpenjualan $laporanpenjualan)
+    public function edit($id)
     {
-        //
+        $buku = buku::findOrFail($id);
+        $penjualan = penjualan::all();
+        return view('buku.show', compact('buku', 'penjualan'));
     }
 
     /**
@@ -67,9 +88,22 @@ class LaporanpenjualanController extends Controller
      * @param  \App\Models\laporanpenjualan  $laporanpenjualan
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, laporanpenjualan $laporanpenjualan)
+    public function update(Request $request, $id)
     {
-        //
+
+        $request->validate([
+
+            'id_buku' => 'required',
+            'id_transaksi' => 'required',
+        ]);
+
+        $laporanpenjualan = laporanpenjualan::findOrFail($id);
+        $laporanpenjualan->id_buku = $request->id_buku;
+        $laporanpenjualan->id_transaksi = $request->id_transaksi;
+
+        $laporanpenjualan->save();
+        return redirect()->route('laporanpenjualan.index');
+
     }
 
     /**
@@ -78,8 +112,10 @@ class LaporanpenjualanController extends Controller
      * @param  \App\Models\laporanpenjualan  $laporanpenjualan
      * @return \Illuminate\Http\Response
      */
-    public function destroy(laporanpenjualan $laporanpenjualan)
+    public function destroy($id)
     {
-        //
+        $laporanpenjualan = laporanpenjualan::findOrFail($id);
+        $laporanpenjualan->delete();
+        return redirect()->route('laporanpenjualan.index');
     }
 }
