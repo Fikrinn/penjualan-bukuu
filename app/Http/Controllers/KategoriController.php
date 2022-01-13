@@ -17,6 +17,12 @@ class KategoriController extends Controller
     {
         $kategori = kategori::all();
         return view('kategori.index', compact('kategori'));
+
+        // return response()->json([
+        //     'succes' => true,
+        //     'message' => 'List Data Supplier',
+        //     'data' => $kategori
+        // ], 200);
     }
 
     /**

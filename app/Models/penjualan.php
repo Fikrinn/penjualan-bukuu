@@ -17,4 +17,8 @@ class penjualan extends Model
 
         return $this->belongsTo('App\Models\buku', 'id_buku');
     }
+    public function laporanpenjualan()
+    {
+        $this->hasMany('App\Models\penjualan', 'id_transaksi');
+    }
 }

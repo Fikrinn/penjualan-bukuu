@@ -21,6 +21,10 @@ class buku extends Model
     {
         $this->hasMany('App\Models\buku', 'id_buku');
     }
+    public function laporanpenjualan()
+    {
+        $this->hasMany('App\Models\buku', 'id_buku');
+    }
 
     public function image()
     {
