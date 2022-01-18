@@ -43,13 +43,13 @@
                                 @foreach ($laporanpenjualan as $data)
                                 <tr>
                                     <td>{{ $no++ }}</td>
-                                    <td>{{ $data->judul_buku }}</td>
-                                    <td>{{ $data->harga }}</td>
-                                    <td>{{ $data->nama_rek }}</td>
-                                    <td>{{ $data->no_rek }}</td>
-                                    <td>{{ $data->total_buku }}</td>
-                                    <td>{{ $data->bank }}</td>
-                                    <td>{{ $data->total_harga }}</td>
+                                    <td>{{ $data->buku->judul_buku }}</td>
+                                    <td>{{ $data->buku->harga }}</td>
+                                    <td>{{ $data->penjualan->nama_rek }}</td>
+                                    <td>{{ $data->penjualan->no_rek }}</td>
+                                    <td>{{ $data->penjualan->total_buku }}</td>
+                                    <td>{{ $data->penjualan->bank }}</td>
+                                    <td>{{ $data->penjualan->total_harga }}</td>
                                     <td>
                                         <form action="{{ route('laporanpenjualan.destroy', $data->id) }}" method="post">
                                             @method('delete')

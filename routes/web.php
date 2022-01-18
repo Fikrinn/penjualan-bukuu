@@ -17,9 +17,9 @@ use Illuminate\Support\Facades\Route;
 |
  */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 Auth::routes();
 
@@ -70,4 +70,8 @@ Route::group(['prefix' => 'admin', 'middleware' => ['auth']], function () {
     Route::resource('penjualan', PenjualanController::class);
     Route::resource('laporanpenjualan', laporanpenjualanController::class);
 
+});
+
+Route::get('/', function () {
+    return view('frontend.index');
 });

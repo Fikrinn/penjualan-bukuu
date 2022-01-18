@@ -45,7 +45,7 @@ return [
     |
      */
 
-    'logo' => '<b>Toko</b> Buku',
+    'logo' => '<b>Toko Buku</b>',
     'logo_img' => 'vendor/adminlte/dist/img/horor.jpg',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,

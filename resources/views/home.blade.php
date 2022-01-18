@@ -9,8 +9,8 @@
 @endsection
 
 @section('content')
-
-Welcome to this beautiful admin panel.
+<br><br><br><br>
+<center><h5>Welcome to this beautiful admin panel.</h5></center>
 
 @endsection
 
