@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/buk.jpg" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -42,34 +42,15 @@
   <header id="header" class="fixed-top header-inner-pages">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">Hidayah</a></h1>
+      <h1 class="logo"><a href="index.html">Penjualan Buku</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link  scrollto" href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -87,22 +68,21 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/bbb.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animated fadeInDown">Welcome to <span><br>Aplikasi Penjualan Buku </span></h2>
+              <h2 class="animated fadeInDown">Welcome to <span><br>Aplikasi Penjualan Buku<br>Horor</span></h2>
 
             </div>
           </div>
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/aaa.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animated fadeInDown">Lorem Ipsum Dolor</h2>
-              <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+
+              <p class="animated fadeInUp">Kini Hadir Buku Horor! Tanpa perlu bepergian, kamu bisa mengintip aneka ragam buku horor di toko kami!</p>
             </div>
           </div>
         </div>
@@ -161,12 +141,12 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/xcx.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/ala.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>App 1</h4>
                     <p>App</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/xcx.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/ala.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
 
                       <a href="frontend.portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 
@@ -177,12 +157,12 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/ggg.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>Web 3</h4>
                     <p>Web</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/ggg.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
@@ -191,12 +171,12 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/111.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>App 2</h4>
                     <p>App</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/111.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
@@ -205,12 +185,12 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/opo.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>Card 2</h4>
                     <p>Card</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/opo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
@@ -219,12 +199,12 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/cfc.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>Web 2</h4>
                     <p>Web</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/cfc.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
@@ -233,12 +213,12 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/333.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>App 3</h4>
                     <p>App</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/333.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
@@ -247,12 +227,12 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/555.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>Card 1</h4>
                     <p>Card</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/555.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
@@ -261,32 +241,17 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/Danur.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>Card 3</h4>
                     <p>Card</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/Danur.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
                 </div>
               </div><!-- End portfolio item -->
-
-              <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-web">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>Web 3</h4>
-                    <p>Web</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div><!-- End portfolio item -->
-
             </div>
           </div>
 
@@ -308,39 +273,42 @@
           <div class="col-xl-10">
             <div class="row">
 
-              <div class="col-xl-3 col-lg-4 col-md-6">
+              <center><div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="member">
-                  <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/team/444.jpg" class="img-fluid" alt="">
                   <div class="member-info">
                     <div class="member-info-content">
                       <h4>Fikri Nurfaizi</h4>
                       <span>Admin</span>
                     </div>
                     <div class="social">
-                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href="https://www.instagram.com/fikrinn_/"><i class="bi bi-instagram"></i></a>
+
                     </div>
                   </div>
                 </div>
               </div>
+              </center>
 
 
-              <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.2s">
+
+              <center><div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.2s">
                 <div class="member">
-                  <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/team/222.jpg" class="img-fluid" alt="">
                   <div class="member-info">
                     <div class="member-info-content">
-                      <h4>William Anderson</h4>
-                      <span>CTO</span>
+                      <h4>Aditya Riman</h4>
+                      <span>Admin</span>
                     </div>
                     <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
+                      <a href="https://www.instagram.com/adityaarss11/"><i class="bi bi-instagram"></i></a>
+
                     </div>
                   </div>
                 </div>
-              </div> <!-- End Member Item -->
+              </div>
+              </center>
+
 
 
             </div>
