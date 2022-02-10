@@ -11,7 +11,8 @@
 
   <!-- Favicons -->
   <link href="assets/img/buk.jpg" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/buk.png" rel="apple-touch-icon">
+
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -49,7 +50,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link  scrollto" href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link  scrollto" href="#portfolio">Daftar Buku</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
@@ -68,7 +69,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/bbb.jpg)">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/horrror.jpg)">
           <div class="carousel-container">
             <div class="container">
               <h2 class="animated fadeInDown">Welcome to <span><br>Aplikasi Penjualan Buku<br>Horor</span></h2>
@@ -78,22 +79,23 @@
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/aaa.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/horrror.jpg)">
           <div class="carousel-container">
             <div class="container">
 
-              <p class="animated fadeInUp">Kini Hadir Buku Horor! Tanpa perlu bepergian, kamu bisa mengintip aneka ragam buku horor di toko kami!</p>
+              <p class="animated fadeInUp">Kini Hadir Toko Buku Horor! Tanpa perlu bepergian, kamu bisa mengintip aneka ragam buku horor di toko kami!</p>
             </div>
           </div>
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/horrror.jpg)">
+
           <div class="carousel-container">
             <div class="container">
               <h2 class="animated fadeInDown">Sequi ea ut et est quaerat</h2>
               <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+
             </div>
           </div>
         </div>
@@ -119,7 +121,7 @@
 
         <div class="section-title">
 
-          <h3>Check our <span>Toko Buku</span></h3>
+          <h3>Check our <span>Daftar Buku</span></h3>
           <p>Menjual Buku Buku Horor Pilihan Ternama Di Indonesia.</p>
         </div>
 
@@ -127,9 +129,6 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
         </div>
@@ -143,10 +142,10 @@
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/ala.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
-                    <h4>App 1</h4>
-                    <p>App</p>
+                    <h4>Sewu Dino</h4>
+
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/ala.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/ala.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sewu Dino"><i class="bx bx-plus"></i></a>
 
                       <a href="frontend.portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 
@@ -159,8 +158,8 @@
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/ggg.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
-                    <h4>Web 3</h4>
-                    <p>Web</p>
+                    <h4>Kisah Tanah Jawa</h4>
+
                     <div class="portfolio-links">
                       <a href="assets/img/portfolio/ggg.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -173,8 +172,8 @@
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/111.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
-                    <h4>App 2</h4>
-                    <p>App</p>
+                    <h4>Horor Kamar</h4>
+
                     <div class="portfolio-links">
                       <a href="assets/img/portfolio/111.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -187,8 +186,8 @@
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/opo.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
-                    <h4>Card 2</h4>
-                    <p>Card</p>
+                    <h4>Kolam Muna</h4>
+
                     <div class="portfolio-links">
                       <a href="assets/img/portfolio/opo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -199,24 +198,52 @@
 
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/portfolio/cfc.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/RT.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
-                    <h4>Web 2</h4>
-                    <p>Web</p>
+                    <h4>Rumah Teteh</h4>
+
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/cfc.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/RT.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
                 </div>
               </div><!-- End portfolio item -->
 
+              <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                  <img src="assets/img/portfolio/ritual.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-info">
+                    <h4>Ritual</h4>
+
+                    <div class="portfolio-links">
+                      <a href="assets/img/portfolio/ritual.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                  <img src="assets/img/portfolio/arwahh.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-info">
+                    <h4>Arwah</h4>
+
+                    <div class="portfolio-links">
+                      <a href="assets/img/portfolio/arwahh.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
               <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/333.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
-                    <h4>App 3</h4>
-                    <p>App</p>
+                    <h4>Mereka Ada</h4>
+
                     <div class="portfolio-links">
                       <a href="assets/img/portfolio/333.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -229,8 +256,8 @@
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/555.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
-                    <h4>Card 1</h4>
-                    <p>Card</p>
+                    <h4>Teman</h4>
+
                     <div class="portfolio-links">
                       <a href="assets/img/portfolio/555.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -243,8 +270,8 @@
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/Danur.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
-                    <h4>Card 3</h4>
-                    <p>Card</p>
+                    <h4>Danur</h4>
+
                     <div class="portfolio-links">
                       <a href="assets/img/portfolio/Danur.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                       <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
