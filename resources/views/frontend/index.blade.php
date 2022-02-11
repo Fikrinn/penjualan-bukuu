@@ -93,8 +93,7 @@
 
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animated fadeInDown">Sequi ea ut et est quaerat</h2>
-              <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+              <p class="animated fadeInUp">Ayo segera beli jangan samapai kehabisan!!!</p>
 
             </div>
           </div>
@@ -145,9 +144,17 @@
                     <h4>Sewu Dino</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/ala.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sewu Dino"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/ala.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sewu Dino <br><br>
+                        Penerbit : Bukune
+                        <br>
+                        Harga : 90000
+                        <br>
+                        Halaman : 230 Hal
+                        <br>
+                        Sinopsis : <br>
+                        “Di dalam ruangan inilah nanti kamu bekerja. “ucap mbah tamin sambil membuka pintu. Seketika, bau busuk langsung tercium. Sri mematung. Di depannya terbujur seorang perempuan, dikurung dalam kerangka keranda mayat. Tubuhnya kurus dan pucat. Badannya dipenuhi borok dan nanah. Tak hanya itu, perutnya juga besar seperti orang hamil. Tidak peduli sri yang ketakutan, mbak tamin melanjutkan penjelasannya, “dia adalah dela atmojo,a anak yang harus kamu rawat sampai waktunya tiba. Ia dikirimi kutukan santet sewu dino. Santet yang sudah merenggut nyawa hamper seluruh anggota keluarga atmojo!”. Dari penulis bestseller KKN di desa penari, simpleman kembali dengan kisah klenik tanah jawa yang dikirim untuk menggerogoti nyawa manusia." ><i class="bx bx-plus"></i></a>
 
-                      <a href="frontend.portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+
 
                     </div>
                   </div>
@@ -161,8 +168,17 @@
                     <h4>Kisah Tanah Jawa</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/ggg.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/ggg.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Kisah Tanah Jawa <br><br>
+                        Penerbit : GagasMedia
+                        <br>
+                        Harga :100000
+                        <br>
+                        Halaman : 250 Hal
+                        <br>
+                        Sinopsis: <br>
+                        Pada intinya buku ini sangat direkomendasikan untuk dibaca oleh pecinta hal-hal mistis dan horor. Ketika kita membaca buku ini, emosi kita akan ikut hanyut melalui tulisan pengarang.
+                        Penyampaian bahasa dalam buku ini mudah dipahami oleh berbagai kalangan. Terlebih buku ini juga mengajarkan kita agar untuk selalu berserah diri kepada sang pencipta gusti pangeran."><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
@@ -175,8 +191,8 @@
                     <h4>Horor Kamar</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/111.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/111.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Horor Kamar"><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
@@ -189,8 +205,8 @@
                     <h4>Kolam Muna</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/opo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/opo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Kolam Muna"><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
@@ -203,8 +219,8 @@
                     <h4>Rumah Teteh</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/RT.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/RT.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Rumah Teteh"><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
@@ -217,8 +233,8 @@
                     <h4>Ritual</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/ritual.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/ritual.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Ritual"><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
@@ -231,8 +247,8 @@
                     <h4>Arwah</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/arwahh.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/arwahh.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Arwah"><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
@@ -245,8 +261,8 @@
                     <h4>Mereka Ada</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/333.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/333.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mereka Ada"><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
@@ -259,8 +275,8 @@
                     <h4>Teman</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/555.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/555.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Teman"><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
@@ -273,8 +289,8 @@
                     <h4>Danur</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/Danur.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                      <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <a href="assets/img/portfolio/Danur.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Danur"><i class="bx bx-plus"></i></a>
+
                     </div>
                   </div>
                 </div>
