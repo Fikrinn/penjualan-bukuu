@@ -144,14 +144,16 @@
                     <h4>Sewu Dino</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/ala.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Sewu Dino <br><br>
-                        Penerbit : Bukune
+                      <a href="assets/img/portfolio/ala.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Sewu Dino</b> <br><br>
+                        <b>Penulis</b>: Simpleman
                         <br>
-                        Harga : 90000
+                        <b>Penerbit</b> : Bukune
                         <br>
-                        Halaman : 230 Hal
+                        <b>Harga</b> : 90000
                         <br>
-                        Sinopsis : <br>
+                        <b>Halaman</b> : 230 Hal
+                        <br>
+                        <b>Sinopsis</b> : <br>
                         “Di dalam ruangan inilah nanti kamu bekerja. “ucap mbah tamin sambil membuka pintu. Seketika, bau busuk langsung tercium. Sri mematung. Di depannya terbujur seorang perempuan, dikurung dalam kerangka keranda mayat. Tubuhnya kurus dan pucat. Badannya dipenuhi borok dan nanah. Tak hanya itu, perutnya juga besar seperti orang hamil. Tidak peduli sri yang ketakutan, mbak tamin melanjutkan penjelasannya, “dia adalah dela atmojo,a anak yang harus kamu rawat sampai waktunya tiba. Ia dikirimi kutukan santet sewu dino. Santet yang sudah merenggut nyawa hamper seluruh anggota keluarga atmojo!”. Dari penulis bestseller KKN di desa penari, simpleman kembali dengan kisah klenik tanah jawa yang dikirim untuk menggerogoti nyawa manusia." ><i class="bx bx-plus"></i></a>
 
 
@@ -168,14 +170,18 @@
                     <h4>Kisah Tanah Jawa</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/ggg.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Kisah Tanah Jawa <br><br>
-                        Penerbit : GagasMedia
+                      <a href="assets/img/portfolio/ggg.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Kisah Tanah Jawa</b> <br><br>
+                        <b>Penulis</b> : Bonaventura D. Genta
+                        Mada Zidan (Mbah KJ)
+                        Hari Kurniawan
                         <br>
-                        Harga :100000
+                        <b>Penerbit</b> : GagasMedia
                         <br>
-                        Halaman : 250 Hal
+                        <b>Harga</b> :100000
                         <br>
-                        Sinopsis: <br>
+                        <b>Halaman</b> : 250 Hal
+                        <br>
+                        <b>Sinopsis</b>: <br>
                         Pada intinya buku ini sangat direkomendasikan untuk dibaca oleh pecinta hal-hal mistis dan horor. Ketika kita membaca buku ini, emosi kita akan ikut hanyut melalui tulisan pengarang.
                         Penyampaian bahasa dalam buku ini mudah dipahami oleh berbagai kalangan. Terlebih buku ini juga mengajarkan kita agar untuk selalu berserah diri kepada sang pencipta gusti pangeran."><i class="bx bx-plus"></i></a>
 
@@ -191,7 +197,11 @@
                     <h4>Horor Kamar</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/111.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Horor Kamar"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/111.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Horor Kamar</b> <br><br>
+                        <b>Penerbit</b> : Euthenia
+                        <br>
+                        <b>Halaman</b> : 152 Hal
+                        "><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
@@ -219,7 +229,17 @@
                     <h4>Rumah Teteh</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/RT.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Rumah Teteh"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/RT.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Rumah Teteh</b><br><br>
+                        <b>Penulis</b> : Brii_story
+                        <br>
+                        <b>Penerbit</b> : Pastel Books
+                        <br>
+                        <b>Harga</b> : 130000
+                        <br>
+                        <b>Halaman</b> : 232 Hal
+                        <br>
+                        <b>Sinopsis</b> : <br> Hal misterius datang silih berganti, menuntun kami untuk bertemu Teteh di rumahnya. Dua tahun lebih menghadapi banyak kejanggalan yang mencekam dan menakutkan, menjadi fase hidup yang tidak akan pernah terlupakan. Teteh, sosok dengan garis nasib yang menggurat sampai ke nadi, menghadirkan perih di tempat yang terdalam. Perasaannya menjerit menembus dua sisi alam, seperti sedang mencari jawaban dalam kesendirian. Kami mendengar dan merasakan semuanya, di Rumah Teteh.
+                        "><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
@@ -233,7 +253,20 @@
                     <h4>Ritual</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/ritual.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Ritual"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/ritual.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Ritual</b> <br> <br>
+                        <b>Penulis</b> : Jounatan & Guntur Alam
+                        <br>
+                        <b>Penerbit</b> : Elex Media Komputindo
+                        <br>
+                        <b>Harga</b>   : 150000
+                        <br>
+                        <b>Halaman</b> : 256 Hal
+                        <br>
+                        <b>Sinopsis</b>: <br>Siapkan pakaian si gadis, tiga helai rambutnya, dupa, bunga kenanga juga kamboja, dan … peti mati. Lalu datangi lokasi yang diyakini jadi tempat arwah gadis-gadis berkumpul. Niscaya roh yang tersesat akan menemukan jalan pulang ke jasadnya.
+
+                        Satu-satunya cara membangunkan Nayla dari koma adalah dengan menggelar ritual untuk memanggil rohnya. Tak sembarang orang bisa melakukannya, risikonya juga tidak main-main. Nayla bisa saja mati!
+
+                        Namun tepat pada tengah malam, gerbang dunia roh pun dibuka selebar-lebarnya, meski tahu bahwa imbalannya adalah darah dan nyawa…"><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
