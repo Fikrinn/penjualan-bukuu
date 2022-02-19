@@ -54,7 +54,8 @@
                                         <form action="{{ route('laporanpenjualan.destroy', $data->id) }}" method="post">
                                             @method('delete')
                                             @csrf
-                                            <a href="{{ route('buku.edit', $data->id) }}" class="btn btn-outline-info">Edit</a>
+                                            <a href="{{ route('buku.edit', $data->id) }}" class="btn btn-outline-info">Edit</a><br>
+
                                             <a href="{{route('buku.show',$data->id)}}" class="btn btn-outline-warning">Show</a>
                                             <button type="submit" class="btn btn-outline-danger" onclick="return confirm('Apakah anda yakin menghapusnya')">Delete</button>
                                         </form>

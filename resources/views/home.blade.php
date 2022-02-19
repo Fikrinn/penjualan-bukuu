@@ -10,7 +10,7 @@
 
 @section('content')
 <br><br><br><br>
-<center><h5>Welcome to this beautiful admin panel.</h5></center>
+<center><h5>Selamat Datang Di Halaman Admin.</h5></center>
 
 @endsection
 

@@ -198,9 +198,19 @@
 
                     <div class="portfolio-links">
                       <a href="assets/img/portfolio/111.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Horor Kamar</b> <br><br>
+                        <b>Penulis</b>: Erby S
+                        <br>
                         <b>Penerbit</b> : Euthenia
                         <br>
                         <b>Halaman</b> : 152 Hal
+                        <br>
+                        <b>Harga</b> : 120000
+                        <br>
+                        <b>Sinopsis</b> :
+                        Ini adalah kisah tentang kamar O22 di sebuah apartemen mewah di Jakarta.
+                        Banyak peristiwa di luar logika terjadi di sini dan membuat oranq-orang angkat kaki karena mengalami hal-hal yang menyeramkan. Sekilas kamar O22 ini tampak biasa dan tidak berbeda dengan kamar-kamar lainnya.
+                        Namun ternyata jauh sebelumya, di kamar ini menyimpan sebuah rahasia besar.
+                        Konon di kamar O22 ini tinggal sepasang kekasih yang tiba-tiba menghilang tanpa jejak, dan sejak saat itu kejadian demi kejadian aneh dan menegangkan pun dimulai dan dialami oleh penghuni-penghuni di sekitarnya.
                         "><i class="bx bx-plus"></i></a>
 
                     </div>
@@ -215,7 +225,19 @@
                     <h4>Kolam Muna</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/opo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Kolam Muna"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/opo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Kolam Muna</b> <br><br>
+                        <b>Penulis</b>: Viane Suwasa
+                        <br>
+                        <b>Penerbit</b>: Dio Media
+                        <br>
+                        <b>Halaman</b>: 200 Hal
+                        <br>
+                        <b>Harga</b>: 79.000
+                        <br>
+                        <b>Sinopsis</b>:
+                        Perempuan itu mengenakan baju hitam panjang yang kainnya mengambang menutupi dasar danau. Dia memegang kaki Ari dengan tangan kanannya, dan yang satu nya lagi memegang kaki Udin.
+                        Karena sangat ketakutan, aku langsung berenang balik ke pinggir kolam sambil baca-baca doa.
+                        "><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
@@ -238,7 +260,8 @@
                         <br>
                         <b>Halaman</b> : 232 Hal
                         <br>
-                        <b>Sinopsis</b> : <br> Hal misterius datang silih berganti, menuntun kami untuk bertemu Teteh di rumahnya. Dua tahun lebih menghadapi banyak kejanggalan yang mencekam dan menakutkan, menjadi fase hidup yang tidak akan pernah terlupakan. Teteh, sosok dengan garis nasib yang menggurat sampai ke nadi, menghadirkan perih di tempat yang terdalam. Perasaannya menjerit menembus dua sisi alam, seperti sedang mencari jawaban dalam kesendirian. Kami mendengar dan merasakan semuanya, di Rumah Teteh.
+                        <b>Sinopsis</b> : <br> Hal misterius datang silih berganti, menuntun kami untuk bertemu Teteh di rumahnya. Dua tahun lebih menghadapi banyak kejanggalan yang mencekam dan menakutkan, menjadi fase hidup yang tidak akan pernah terlupakan. Teteh, sosok dengan garis nasib yang menggurat sampai ke nadi, menghadirkan perih di tempat yang terdalam.
+                        Perasaannya menjerit menembus dua sisi alam, seperti sedang mencari jawaban dalam kesendirian. Kami mendengar dan merasakan semuanya, di Rumah Teteh.
                         "><i class="bx bx-plus"></i></a>
 
                     </div>
@@ -262,25 +285,32 @@
                         <br>
                         <b>Halaman</b> : 256 Hal
                         <br>
-                        <b>Sinopsis</b>: <br>Siapkan pakaian si gadis, tiga helai rambutnya, dupa, bunga kenanga juga kamboja, dan … peti mati. Lalu datangi lokasi yang diyakini jadi tempat arwah gadis-gadis berkumpul. Niscaya roh yang tersesat akan menemukan jalan pulang ke jasadnya.
-
-                        Satu-satunya cara membangunkan Nayla dari koma adalah dengan menggelar ritual untuk memanggil rohnya. Tak sembarang orang bisa melakukannya, risikonya juga tidak main-main. Nayla bisa saja mati!
-
-                        Namun tepat pada tengah malam, gerbang dunia roh pun dibuka selebar-lebarnya, meski tahu bahwa imbalannya adalah darah dan nyawa…"><i class="bx bx-plus"></i></a>
+                        <b>Sinopsis</b>: <br>Siapkan pakaian si gadis, tiga helai rambutnya, dupa, bunga kenanga juga kamboja, dan … peti mati. Lalu datangi lokasi yang diyakini jadi tempat arwah gadis-gadis berkumpul.
+                        Niscaya roh yang tersesat akan menemukan jalan pulang ke jasadnya.
+                        "><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
                 </div>
               </div>
 
-              <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-web">
+              <div class="col-xl-3 col-lg-2 col-md-5 portfolio-item filter-web">
                 <div class="portfolio-wrap">
                   <img src="assets/img/portfolio/arwahh.jpg" class="img-fluid" alt="">
                   <div class="portfolio-info">
                     <h4>Arwah</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/arwahh.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Arwah"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/arwahh.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Arwah</b> <br><br>
+                        <b>Penerbit</b> : Elex Media Komputindo<br>
+                        <b>Penulis</b>	: Jounatan & Guntur Alam<br>
+                        <b>Halaman</b>	: 176 Hal<br>
+                        <b>Harga</b>    : 56.000<br>
+                        <b>Sinopsis</b> : Serius, elu mau kerja part time di Diskotek Lipstik?” Jounatan mengangguk. “Tapi diskotek itu serem, Jou. Ada hantunya.”
+                        Jou tak percaya hantu, dan dia sangat membutuhkan pekerjaan paruh waktu.
+                        Tapi adiknya mengatakan kalau sejak malam itu, selalu ada satu sosok tak kasatmata yang mengikuti Jou ketika pulang ke rumah.
+                        Tak butuh waktu lama bagi Jou untuk menyadari bahwa kedatangannya dan teman-temannya ke diskotek terkutuk itu telah membangkitkan arwah penasaran yang haus darah. Mereka terseret ke sebuah tragedi yang telah lama tersimpan rapat.
+                      "><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
@@ -294,7 +324,14 @@
                     <h4>Mereka Ada</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/333.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mereka Ada"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/333.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Mereka Ada</b> <br><br>
+                      <b>Penulis</b>: MWV.Mystic<br>
+                      <b>Penerbit</b>: Loveable<br>
+                      <b>Halaman</b>: 368 Hal<br>
+                      <b>Harga</b>: 60.000<br>
+                      <b>Sinopsis</b>:Kisah ini merupakan kisah nyata yang diambil dari narsumber yang jelas kebenarannya.
+                      Dan setiap kejadian yang dibuat dalam rangkaian cerita memang benar adanya, kecuali nama dan tempat tinggal yang disamarkan.
+                        "><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
@@ -308,7 +345,14 @@
                     <h4>Teman</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/555.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Teman"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/555.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Teman</b> <br><br>
+                        <b>Penulis</b>: Jounatan & Guntur Alam<br>
+                        <b>Penerbit</b>: Elex Media Komputindo<br>
+                        <b>Halaman</b>: 216 Hal<br>
+                        <b>Harga</b>: 55.000<br>
+                        <b>Sinopsis</b>: Konon, tiga puluh tahun lalu, terjadi pembunuhan di sekolah Jounatan. Namun peristiwa itu ditutupi pihak sekolah.
+                        Tak banyak yang tahu, termasuk murid-murid di sana. Lalu, tiba-tiba seorang anak kelas sepuluh mengungkap cerita terlarang itu kepada Jou. Katanya, arwah korban yang terbunuh itu akan menuntut balas.
+                        "><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
@@ -322,7 +366,13 @@
                     <h4>Danur</h4>
 
                     <div class="portfolio-links">
-                      <a href="assets/img/portfolio/Danur.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Danur"><i class="bx bx-plus"></i></a>
+                      <a href="assets/img/portfolio/Danur.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="<b>Danur</b> <br><br>
+                      <b>Penulis</b>: Risa Saraswati<br>
+                      <b>Penerbit</b>: Bukune<br>
+                      <b>Harga</b>: 130.000<br>
+                      <b>Sinopsis</b>:Jangan heran jika mendapatiku sedang bicara sendirian atau tertawa tanpa seorang pun terlihat bersamaku. Saat itu mungkin saja aku sedang bersama salah satu dari lima sahabatku. Kalian mungkin tak melihatnya... Wajar. Mereka memang tak kasat mata dan sering disebut...
+                      hantu jiwa-jiwa penasaran atas kehidupan yang mereka anggap tidak adil.
+                        "><i class="bx bx-plus"></i></a>
 
                     </div>
                   </div>
